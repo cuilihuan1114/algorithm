@@ -7,6 +7,7 @@ public class _23_合并K个排序链表 {
 
 
     public static void main(String[] args) {
+
         ListNode listNode1 = new ListNode(2);
         ListNode listNode2 = new ListNode(4);
         ListNode listNode3 = new ListNode(8);
